@@ -1,0 +1,21 @@
+1. The Fundamentals
+2. Books--> 
+   Grokking Algorithms
+   Dive Into Systems (A Gentle introduction to Computer Systems)
+   The Imposter's Handbook By Rob Conery
+   Data Structures (You already have course)
+   System Design (You can refer udemy or ZeroToMastery)
+   C Programming (Ritchie)
+   Effective Java 
+   
+   
+   
+3. Soft Skills 
+	Talk aloud what you are doing and choose good vocabulary.
+	Book --> How to have confidence and power in dealing with people By Les Giblin
+	
+4. AI Common Knowledge
+   	packt 
+   	The Bussiness Case for AI
+   
+   
